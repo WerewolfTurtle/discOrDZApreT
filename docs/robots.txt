@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign
+Host: werewolfturtle.github.io
+
+Sitemap: https://werewolfturtle.github.io/discOrDZApreT/sitemap.xml

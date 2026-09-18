@@ -1,0 +1,10 @@
+# discOrDZApreT
+
+Если Discord висит на Connecting, discOrDZApreT поднимает голосовые и видео без стороннего туннеля.
+
+Если Discord висит на Connecting, discOrDZApreT поднимает голосовые и видео без стороннего туннеля. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/WerewolfTurtle/discOrDZApreT/releases/latest
+Код: https://github.com/WerewolfTurtle/discOrDZApreT
+Основа: https://github.com/bol-van/zapret
+Страница: https://werewolfturtle.github.io/discOrDZApreT/
